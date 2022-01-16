@@ -57,8 +57,8 @@
 // Macros and Globals
 //*********************************************************************************
 
-#define DEG_TO_RAD_RATIO    0.0174532f
-#define RAD_TO_DEG_RATIO    57.2957795f
+#define DEG_TO_RAD_RATIO    0.02f
+#define RAD_TO_DEG_RATIO    60
 
 //*********************************************************************************
 // Class
